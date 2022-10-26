@@ -12,3 +12,15 @@ Java - репозиторий с дипломом https://github.com/SergeyPanam
 Сайт тестируемого магазина https://henderson.ru/
 
 Тестирование прочего https://docs.google.com/spreadsheets/d/1pswZhhbqsmROWxVHRM75Yhep_6qMaNLhhYKqqvYpwUs/edit#gid=144279424
+
+### Сертификаты тестирования Нетологии
+Ручное тестирование - [certificate (1).pdf](https://github.com/SergeyPanama/SergeyPanama/files/9869467/certificate.1.pdf)
+
+Git - [certificate (2).pdf](https://github.com/SergeyPanama/SergeyPanama/files/9869479/certificate.2.pdf)
+
+Java - [certificate 3.pdf](https://github.com/SergeyPanama/SergeyPanama/files/9869482/certificate.3.pdf)
+
+Тестировщик ПО - [certificate 4.pdf](https://github.com/SergeyPanama/SergeyPanama/files/9869484/certificate.4.pdf)
+
+Data Science - [certificate.pdf](https://github.com/SergeyPanama/SergeyPanama/files/9869493/certificate.pdf)
+
