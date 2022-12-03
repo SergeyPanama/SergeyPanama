@@ -13,7 +13,7 @@ Java - репозиторий с дипломом https://github.com/SergeyPanam
 
 Тестирование прочего https://docs.google.com/spreadsheets/d/1pswZhhbqsmROWxVHRM75Yhep_6qMaNLhhYKqqvYpwUs/edit#gid=144279424
 
-Выполнил тестовое задание
+Выполнил тестовое задание (поиск багов на сайте)
 
 Сайт: https://lifebeta.ru/special/qa-test/
 
