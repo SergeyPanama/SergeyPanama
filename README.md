@@ -14,8 +14,11 @@ Java - репозиторий с дипломом https://github.com/SergeyPanam
 Тестирование прочего https://docs.google.com/spreadsheets/d/1pswZhhbqsmROWxVHRM75Yhep_6qMaNLhhYKqqvYpwUs/edit#gid=144279424
 
 Выполнил тестовое задание
+
 Сайт: https://lifebeta.ru/special/qa-test/
+
 Чек-лист: https://docs.google.com/spreadsheets/d/1JEw-QtYtt-OsgtiSLBslSqFRKKAlM5Z8-Jn96cKd5X4/edit#gid=0
+
 Тест кейс: https://docs.google.com/spreadsheets/d/1QspjE3r2YvQC4Y7PLOo5O8hO734v2vDMDyvSwgFYb2g/edit#gid=0
 
 ### Сертификаты тестирования Нетологии
