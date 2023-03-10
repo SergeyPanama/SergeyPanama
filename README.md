@@ -32,3 +32,5 @@ Java - [certificate 3.pdf](https://github.com/SergeyPanama/SergeyPanama/files/98
 
 Data Science - [certificate.pdf](https://github.com/SergeyPanama/SergeyPanama/files/9869493/certificate.pdf)
 
+API - https://stepik.org/cert/1981894
+
