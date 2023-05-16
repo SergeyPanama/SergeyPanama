@@ -23,6 +23,7 @@ Java - репозиторий с дипломом https://github.com/SergeyPanam
 
 ### Python
 Калькулятор - https://github.com/SergeyPanama/Pz
+
 Рандом (отгадай число) - https://github.com/SergeyPanama/Pz2
 
 ### Сертификаты тестирования Нетологии
