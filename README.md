@@ -21,6 +21,10 @@ Java - репозиторий с дипломом https://github.com/SergeyPanam
 
 Тест кейс: https://docs.google.com/spreadsheets/d/1QspjE3r2YvQC4Y7PLOo5O8hO734v2vDMDyvSwgFYb2g/edit#gid=0
 
+### Python
+Калькулятор - https://github.com/SergeyPanama/Pz
+Рандом (отгадай число) - https://github.com/SergeyPanama/Pz2
+
 ### Сертификаты тестирования Нетологии
 Ручное тестирование - [certificate (1).pdf](https://github.com/SergeyPanama/SergeyPanama/files/9869467/certificate.1.pdf)
 
