@@ -20,10 +20,15 @@ Java - репозиторий с дипломом https://github.com/SergeyPanam
 Чек-лист: https://docs.google.com/spreadsheets/d/1JEw-QtYtt-OsgtiSLBslSqFRKKAlM5Z8-Jn96cKd5X4/edit#gid=0
 
 Тест кейс: https://docs.google.com/spreadsheets/d/1QspjE3r2YvQC4Y7PLOo5O8hO734v2vDMDyvSwgFYb2g/edit#gid=0
-Тест-кейсы в другом формате: 
+
+Тест-кейсы в другом формате:
+
 1 - https://docs.google.com/spreadsheets/d/1G2kt-SaxhmcoIPS1mXdvOuPPIEowLWn5Wgx0a6SBZiY/edit#gid=0
+
 2 - https://docs.google.com/spreadsheets/d/1VEp6Spt6D8n39u60XFmaxH8ekCtTiw5_ZXkGVdNz1mA/edit#gid=0
+
 3 - https://docs.google.com/spreadsheets/d/1-IFKvMuuS9FfRR_uoU-1E2q3LuSg2fTwQECk5UCdJJA/edit#gid=0
+
 ### Python
 Калькулятор - https://github.com/SergeyPanama/Pz
 
