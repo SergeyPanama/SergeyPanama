@@ -29,6 +29,9 @@ Java - репозиторий с дипломом https://github.com/SergeyPanam
 
 3 - https://docs.google.com/spreadsheets/d/1-IFKvMuuS9FfRR_uoU-1E2q3LuSg2fTwQECk5UCdJJA/edit#gid=0
 
+Тет-план:
+https://docs.google.com/document/d/1aWKm1etapXVpSMYkKEcTOGFGrS3hdn0PzeHkqoax8dU/edit
+
 ### Python
 Калькулятор - https://github.com/SergeyPanama/Pz
 
