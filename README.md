@@ -32,6 +32,9 @@ Java - репозиторий с дипломом https://github.com/SergeyPanam
 Тет-план:
 https://docs.google.com/document/d/1aWKm1etapXVpSMYkKEcTOGFGrS3hdn0PzeHkqoax8dU/edit
 
+Чек-лист:
+https://docs.google.com/spreadsheets/d/1QYzkROm4Wd4Tqv6YX9ydo-jVPBdIYbTqlMKX8ktNT-w/edit#gid=266620849
+
 ### Python
 Калькулятор - https://github.com/SergeyPanama/Pz
 
