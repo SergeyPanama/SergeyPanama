@@ -13,15 +13,7 @@ Java - репозиторий с дипломом https://github.com/SergeyPanam
 
 Тестирование прочего https://docs.google.com/spreadsheets/d/1pswZhhbqsmROWxVHRM75Yhep_6qMaNLhhYKqqvYpwUs/edit#gid=144279424
 
-Выполнил тестовое задание (поиск багов на сайте)
-
-Сайт: https://lifebeta.ru/special/qa-test/
-
-Чек-лист: https://docs.google.com/spreadsheets/d/1JEw-QtYtt-OsgtiSLBslSqFRKKAlM5Z8-Jn96cKd5X4/edit#gid=0
-
-Тест кейс: https://docs.google.com/spreadsheets/d/1QspjE3r2YvQC4Y7PLOo5O8hO734v2vDMDyvSwgFYb2g/edit#gid=0
-
-Тест-кейсы в другом формате:
+Тест-кейсы:
 
 1 - https://docs.google.com/spreadsheets/d/1G2kt-SaxhmcoIPS1mXdvOuPPIEowLWn5Wgx0a6SBZiY/edit#gid=0
 
