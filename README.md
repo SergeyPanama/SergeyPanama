@@ -40,7 +40,7 @@ https://docs.google.com/spreadsheets/d/1QYzkROm4Wd4Tqv6YX9ydo-jVPBdIYbTqlMKX8ktN
 
 Рандом (отгадай число) - https://github.com/SergeyPanama/Pz2
 
-### Сертификаты тестирования Нетологии
+### Сертификаты доп. образования:
 Ручное тестирование - [certificate (1).pdf](https://github.com/SergeyPanama/SergeyPanama/files/9869467/certificate.1.pdf)
 
 Git - [certificate (2).pdf](https://github.com/SergeyPanama/SergeyPanama/files/9869479/certificate.2.pdf)
@@ -52,4 +52,6 @@ Java - [certificate 3.pdf](https://github.com/SergeyPanama/SergeyPanama/files/98
 Data Science - [certificate.pdf](https://github.com/SergeyPanama/SergeyPanama/files/9869493/certificate.pdf)
 
 API - https://stepik.org/cert/1981894
+
+Певая программа на Python - [Сертификат Python.pdf](https://github.com/SergeyPanama/SergeyPanama/files/11662250/Python.pdf)
 
