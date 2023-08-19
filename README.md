@@ -47,3 +47,6 @@ API - https://stepik.org/cert/1981894
 
 Певая программа на Python - [Сертификат Python.pdf](https://github.com/SergeyPanama/SergeyPanama/files/11662250/Python.pdf)
 
+Основы Python: создаем телеграмм бота - [Сертификат Python2.pdf](https://github.com/SergeyPanama/SergeyPanama/files/12385237/Python2.pdf)
+
+
