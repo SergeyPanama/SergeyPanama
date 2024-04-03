@@ -32,7 +32,7 @@ https://docs.google.com/spreadsheets/d/1QYzkROm4Wd4Tqv6YX9ydo-jVPBdIYbTqlMKX8ktN
 
 Рандом (отгадай число) - https://github.com/SergeyPanama/Pz2
 
-Тест на знание языка Python - [https://github.com/SergeyPanama/Test_python](https://github.com/SergeyPanama/test_demo.py)
+Тест на знание языка Python - https://github.com/SergeyPanama/pythonProjecttest/blob/main/main.py
 
 ### Сертификаты доп. образования:
 Ручное тестирование - [certificate (1).pdf](https://github.com/SergeyPanama/SergeyPanama/files/9869467/certificate.1.pdf)
