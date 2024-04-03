@@ -32,8 +32,6 @@ https://docs.google.com/spreadsheets/d/1QYzkROm4Wd4Tqv6YX9ydo-jVPBdIYbTqlMKX8ktN
 
 Рандом (отгадай число) - https://github.com/SergeyPanama/Pz2
 
-Телеграмм-бот - https://github.com/SergeyPanama/Tgbot
-
 Тест на знание языка Python - [https://github.com/SergeyPanama/Test_python](https://github.com/SergeyPanama/test_demo.py)
 
 ### Сертификаты доп. образования:
